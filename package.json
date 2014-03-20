@@ -13,7 +13,7 @@
   "keywords": [
     "router",
     "socket.io",
-    "websocket",
+    "websocket"
   ],
   "author": "Szymon Wygnański <s@finalclass.net> (http://finalclass.net/)",
   "license": "ISC",
@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/finalclass/socket.io-router",
   "dependencies": {
-    "require-ts": "~0.2.2"
   }
 }

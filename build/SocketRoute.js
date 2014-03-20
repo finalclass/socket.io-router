@@ -1,4 +1,3 @@
-///<reference path="types/types.d.ts"/>
 var SocketRoute = (function () {
     function SocketRoute(name, callback) {
         this.name = name;
