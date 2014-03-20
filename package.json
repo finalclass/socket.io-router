@@ -1,6 +1,6 @@
 {
   "name": "socket.io-router",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Router to use with socket.io",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,5 @@
     "url": "https://github.com/finalclass/socket.io-router/issues"
   },
   "homepage": "https://github.com/finalclass/socket.io-router",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
