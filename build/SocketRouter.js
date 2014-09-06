@@ -1,4 +1,3 @@
-///<reference path="types/types.d.ts"/>
 var SocketRoute = require('./SocketRoute');
 var SocketRequest = require('./SocketRequest');
 

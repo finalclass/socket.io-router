@@ -1,4 +1,4 @@
-///<reference path="types/types.d.ts"/>
+///<reference path="typings/tsd.d.ts"/>
 
 import SocketRoute = require('./SocketRoute');
 import SocketRequest = require('./SocketRequest');
